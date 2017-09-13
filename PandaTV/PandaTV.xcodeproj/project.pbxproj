@@ -242,7 +242,6 @@
 				TargetAttributes = {
 					B7CDD8E91F696BB400AEF67D = {
 						CreatedOnToolsVersion = 8.3.2;
-						DevelopmentTeam = CW23JJ23BD;
 						ProvisioningStyle = Automatic;
 					};
 					B7CDD8FD1F696BB500AEF67D = {
@@ -603,7 +602,7 @@
 			baseConfigurationReference = 385C9AE40C78CE7BD102BB48 /* Pods-PandaTV.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = CW23JJ23BD;
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = PandaTV/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = QT.PandaTV;
@@ -617,7 +616,7 @@
 			baseConfigurationReference = 85BBCD9437D76067B0020B8B /* Pods-PandaTV.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = CW23JJ23BD;
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = PandaTV/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = QT.PandaTV;
@@ -707,6 +706,7 @@
 				B7CDD9141F696BB500AEF67D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		B7CDD9151F696BB500AEF67D /* Build configuration list for PBXNativeTarget "PandaTVTests" */ = {
 			isa = XCConfigurationList;
@@ -715,6 +715,7 @@
 				B7CDD9171F696BB500AEF67D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		B7CDD9181F696BB500AEF67D /* Build configuration list for PBXNativeTarget "PandaTVUITests" */ = {
 			isa = XCConfigurationList;
@@ -723,6 +724,7 @@
 				B7CDD91A1F696BB500AEF67D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
